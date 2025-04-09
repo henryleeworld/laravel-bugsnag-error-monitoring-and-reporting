@@ -1,4 +1,4 @@
-# Laravel 10 Bugsnag 錯誤監控和紀錄
+# Laravel 11 Bugsnag 錯誤監控和紀錄
 
 引入 bugsnag 的 bugsnag-laravel 套件來擴增使用 Bugsnag 監控應用程序的運行狀況，了解錯誤影響的發生次數和用戶數量有助於你確定錯誤的優先級；將所有診斷數據存儲在一個地方，使您能夠快速重現和修復錯誤；追蹤穩定性指標讓您評估應用程序版本的性能。
 
@@ -19,8 +19,8 @@ $ php artisan key:generate
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
 
 ## 畫面截圖
-![](https://i.imgur.com/sEQ1lNT.png)
+![](https://i.imgur.com/H4vIu0y.png)
 > 觸發錯誤例外以中斷程式流程
 
-![](https://i.imgur.com/qCvdh4E.png)
+![](https://i.imgur.com/Aq8XfWT.png)
 > 使用 Bugsnag 確認程式錯誤的偵測
